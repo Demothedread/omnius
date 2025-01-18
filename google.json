@@ -1,0 +1,13 @@
+{
+  "web": {
+    "client_id": "700638306537-27jsc5c64hrjq6153mc5fll6prmgef4o.apps.googleusercontent.com",
+    "project_id": "bartleby-auth",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "javascript_origins": [
+      "http://localhost:3000",
+      "https://bartleby.vercel.app"
+    ]
+  }
+}
